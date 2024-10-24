@@ -1,0 +1,7 @@
+model,body type,car name,engine,torque,power,drive type,transmission type
+xuv 3xo mx1 1.2 petrol,suv,xuv 3xo,1197cc,200nm,110bhp,fwd,manual
+xuv 3xo mx2 pro 1.2 petrol,suv,xuv 3xo,1197cc,200nm,110bhp,fwd,manual
+xuv 3xo mx2 1.5 diesel,suv,xuv 3xo,1497cc,200nm,115bhp,fwd,manual
+xuv 3xo ax7l 1.2 petrol at,suv,xuv 3xo,1197cc,230nm,129bhp,fwd,at
+xuv 300 w2 1.2 petrol,suv,xuv 300,1197cc,200nm,115bhp,fwd,manual
+xuv 300 w8(o) 1.5 diesel amt,suv,xuv 300,1497cc,300nm,115bhp,fwd,amt
